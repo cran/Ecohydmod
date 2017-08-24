@@ -1,0 +1,8 @@
+export(CInt_f)
+export(Et_f)
+export(Lk_f)
+export(RainPoisson)
+export(SimNDVI)
+export(swb_f)
+importFrom("graphics", "layout", "par", "plot")
+importFrom("stats", "coefficients", "lm", "runif")

@@ -1,0 +1,14 @@
+bbd8a408f98299b50f388d1ac8487042 *DESCRIPTION
+961658655d89e975fdde2406e8362b2e *NAMESPACE
+146e1bc928cf2875cc89c3947ff89afb *R/Evapotranspiration.R
+2ff070be9a5f236428a6cae542872705 *R/Interceptation.R
+2342f24d007f077188c9bf5ca0328a2f *R/Leakage.R
+810c4f80112e64e727cab7f401a5cfd2 *R/Rainfall.R
+be80372051d6f691d8e8df91093d7203 *R/SimNDVI.R
+684f352ef197d79132cfde0f1b0092d5 *R/SoilWaterBalance.R
+5c163b9489763f836e1568af5d2e9e2d *man/CInt_f.Rd
+5440aad8ec3ddb1e1211aae1e1b41fec *man/Et_f.Rd
+ab28e6cb2c37827b06c19517a4c3561e *man/Lk_f.Rd
+262d4476162b604263c4c383b716cdaa *man/RainPoisson.Rd
+9d2cbf38146faed97ac7ada7a19cdb0c *man/SimNDVI.Rd
+5751040803b3cf71ccddf8682b4d0fcd *man/swb_f.Rd
